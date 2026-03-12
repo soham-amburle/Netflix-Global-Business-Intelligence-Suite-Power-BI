@@ -1,4 +1,4 @@
-# Netflix | Global Streaming Platform Business Intelligence Suite (Power BI)
+# Netflix | Global Business Intelligence Suite (Power BI)
 
 ## Project Overview
 
