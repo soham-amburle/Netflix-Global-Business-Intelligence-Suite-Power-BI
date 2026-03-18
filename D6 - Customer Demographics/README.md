@@ -1,4 +1,4 @@
-# Customer Demographics Dashboard
+# Netflix Global Streaming Intelligence Suite - Customer Demographics Dashboard
 
 **Organization:** Netflix (Simulated Global Streaming Model)
 **Tool:** Power BI
