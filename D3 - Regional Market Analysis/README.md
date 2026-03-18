@@ -1,4 +1,4 @@
-# Global Streaming Intelligence Suite – Regional Market Analysis
+# Netflix Global Streaming Intelligence Suite – Regional Market Analysis
 
 **Organization:** Netflix (Simulated Global Streaming Platform Model)  
 **Tool:** Power BI  
