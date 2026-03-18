@@ -1,4 +1,4 @@
-# Global Streaming Intelligence Suite – Revenue Analytics
+# Netflix Global Streaming Intelligence Suite – Revenue Analytics
 
 **Organization:** Netflix (Simulated Global Streaming Platform Model)  
 **Tool:** Power BI  
