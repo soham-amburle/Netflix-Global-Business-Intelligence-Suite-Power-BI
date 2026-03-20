@@ -1,17 +1,10 @@
 # Global Streaming Intelligence Suite – Device Usage Analytics
-
 **Organization:** Netflix (Simulated Streaming Analytics Model)
-
 **Tool:** Power BI
-
 **Dataset:** Synthetic Global Streaming Dataset – 2,394 Records
-
 **Dashboard Focus:** Device Usage Behavior, Streaming Patterns, and Engagement Analysis
-
 **Date:** 17 March 2026
-
 **Created by:** Soham S. Amburle
-
 ---
 
 ## Overview
