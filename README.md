@@ -1,5 +1,7 @@
 # Netflix | Global Business Intelligence Suite (Power BI)
 
+**by Soham S. Amburle**
+
 ## Project Overview
 
 This project simulates an **enterprise-grade Business Intelligence solution** for a global streaming platform similar to Netflix, built using **Power BI** and a large-scale **synthetic streaming dataset**.
